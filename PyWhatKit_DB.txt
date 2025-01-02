@@ -1,0 +1,20 @@
+Date: 2/1/2025
+Time: 13:42
+Phone Number: +5598985402115
+Message: Mensagem automática agendada.
+--------------------
+Date: 2/1/2025
+Time: 13:55
+Phone Number: +5598985402115
+Message: Teste
+--------------------
+Date: 2/1/2025
+Time: 14:9
+Phone Number: +5598985402115
+Message: Teste2
+--------------------
+Date: 2/1/2025
+Time: 14:11
+Phone Number: +5598985402115
+Message: Teste3
+--------------------
